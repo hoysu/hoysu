@@ -8,6 +8,10 @@
 
 *Deeply diving into the world of autonomous agents and generative AI.*
 
+### Portfolio
+For detailed project experiences and in-depth technical insights, please visit my portfolio.
+👉 [Portfolio Link]()
+
 ### Tech Stack
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)
@@ -24,6 +28,3 @@
 
 to be continued..
 
-### Portfolio
-For detailed project experiences and in-depth technical insights, please visit my portfolio.
-👉 [Portfolio Link]()
