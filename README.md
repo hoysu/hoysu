@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there, I'm Yeonsu HO 👋
 
-<!--
-**hoysu/hoysu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔍 Quick Info
+* 🎓 Graduated from **Sungshin Women's University**
+* 📚 Studied **AI** & **Convergence Security Engineering**
+* 🧠 Research Interests: **LLMs (Large Language Models)**, **AI Agents** 
+* 💬 **Contact:** yeonsooho@naver.com
 
-Here are some ideas to get you started:
+*Deeply diving into the world of autonomous agents and generative AI.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+### 🔗 Portfolio
+For detailed project experiences and in-depth technical insights, please visit my portfolio.
+👉 [Portfolio Link]()
